@@ -1,0 +1,4 @@
+# Mascotas
+
+* Perro
+* Gato
