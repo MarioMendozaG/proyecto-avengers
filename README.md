@@ -9,4 +9,4 @@ Toda la informaciÃ³n aquÃ­ utilizada sale de Wikipedia y Marvel.com
 Los avengers planean una rebelión. 
 
 ## Planes
-Acabar con los avengers.
+Dejar vivir a los avengers.
